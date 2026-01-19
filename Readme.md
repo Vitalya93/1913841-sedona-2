@@ -2,7 +2,7 @@
 
 * Студент: [Виталий](https://up.htmlacademy.ru/htmlcss-individual/2/user/1913841).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
-
+* Сайт: [Мой проект Седона](https://vitalya93.github.io/1913841-sedona-2/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
